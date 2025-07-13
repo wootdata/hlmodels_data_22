@@ -1,0 +1,76 @@
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "obamium",
+					"polys": 6,
+					"verts": 5
+				}
+			],
+			"name": "OBAMA"
+		}
+	],
+	"colorable": false,
+	"controllers": [],
+	"date": 1576078636,
+	"events": [],
+	"id": 1414743113,
+	"md5": "f84a4be4a4fab82e807897d7726f7094",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
+	"name": "obamium.mdl",
+	"preview": false,
+	"readme": false,
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 60.000000,
+			"frames": 41,
+			"name": "spin"
+		}
+	],
+	"size": 661140,
+	"skeleton": [
+		{
+			"name": "Bip01 Pelvis",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 4,
+			"height": 512,
+			"name": "face.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 4,
+			"height": 512,
+			"name": "right.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 4,
+			"height": 512,
+			"name": "left.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 4,
+			"height": 256,
+			"name": "back.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 4,
+			"height": 256,
+			"name": "bottom.bmp",
+			"width": 256
+		}
+	],
+	"version": 10
+}
