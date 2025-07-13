@@ -1,0 +1,7 @@
+Clan AOD Skin
+
+Decompress the files AOD.bmp and AOD.mdl into your Half-Life\valve\models\player\AOD\ directory.
+Then select the model from the model browser in the game.
+
+Any problems?
+email Stauf at Stauf@iname.com
