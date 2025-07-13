@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -75,6 +76,7 @@
 			"type": 32
 		}
 	],
+	"date": 1625598341,
 	"events": [
 		{
 			"event": 2001,
@@ -184,7 +186,11 @@
 	],
 	"id": 1414743113,
 	"md5": "710a65f169ea54f4dcba17dba1a8eae0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "toon_leet.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

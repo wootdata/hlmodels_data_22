@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -62,6 +63,7 @@
 			"type": 16
 		}
 	],
+	"date": 1741614818,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "53e78b6f9386036673289cdabdb996a4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/player/x22miku_recolor/x22miku_recolor.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

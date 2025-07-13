@@ -33,6 +33,7 @@
 			"name": "doctor"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1600027199,
 	"events": [
 		{
 			"event": 2001,
@@ -232,7 +234,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6c25599a6f2b4d15422f2bfb3fb21d34",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\pc\\Desktop\\abe1\\abe1.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

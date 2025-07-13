@@ -108,6 +108,7 @@
 			"name": "glow"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -142,6 +143,7 @@
 			"type": 8
 		}
 	],
+	"date": 1660616176,
 	"events": [
 		{
 			"event": 2001,
@@ -251,7 +253,11 @@
 	],
 	"id": 1414743113,
 	"md5": "357287efdb02275854b80a0899273908",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "barney.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -12,7 +12,9 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
+	"date": 1170113038,
 	"events": [
 		{
 			"event": 2001,
@@ -206,7 +208,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9e618463ac4eee65f7d4f7423ff368e6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Valve\\Steam\\SteamApps\\campbellgrier@shaw.ca\\half-life\\SvenCoo",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
