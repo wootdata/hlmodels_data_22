@@ -236,6 +236,7 @@
 	"md5": "ef262b043600897701ca1bd755b26918",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "tfc/models/player/civilian/civilian.mdl",
 	"preview": false,
 	"readme": true,

@@ -198,6 +198,7 @@
 	"md5": "707c20acd98bf08f77b2d1441001869a",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player.mdl",
 	"preview": true,
 	"readme": false,

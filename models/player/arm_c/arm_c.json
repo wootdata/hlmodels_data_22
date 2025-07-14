@@ -180,6 +180,7 @@
 	"md5": "0ea8c6740798709194f3a80a530af7e7",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/arm/arm.mdl",
 	"preview": true,
 	"readme": false,

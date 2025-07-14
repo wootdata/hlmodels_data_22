@@ -250,6 +250,7 @@
 	"md5": "aa31301fc98e4d4b564cf7780ecb6f1f",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "tfc/models/player/spy/spy.mdl",
 	"preview": false,
 	"readme": true,

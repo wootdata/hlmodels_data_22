@@ -175,6 +175,7 @@
 	"md5": "6aa71fa00c2c29054148db0efbbf901b",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/DM_Skel/dm_skel.mdl",
 	"preview": false,
 	"readme": false,
