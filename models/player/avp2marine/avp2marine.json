@@ -178,7 +178,7 @@
 	"modid": 2,
 	"name": "C:\\Matthew\\Games\\Half-Life\\valve\\models\\player\\frosty\\frosty.mdl",
 	"preview": true,
-	"readme": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
