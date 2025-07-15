@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : god
+Source Model Hash : eb9b40c9fbf53983b5aee5a0bb0c6882
+Source Model Date : 1491737851 (2017/04/09)
+
+Ported Model Name : god_v1sc
+Ported Model Hash : 41ac1f80b24fd3033ab639f05d3e0349
+Ported Model Date : 1752491731 (2025/07/14)

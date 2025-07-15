@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : taskforce_arab
+Source Model Hash : 9a056ae740d6dc243857033a2fa3a052
+Source Model Date : 1267284137 (2010/02/27)
+
+Ported Model Name : taskforce_arab_v1sc
+Ported Model Hash : aabe5c0aaf569aef01fa94cc32f1b26f
+Ported Model Date : 1752492362 (2025/07/14)

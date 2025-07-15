@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : vortigaunt_slave
+Source Model Hash : 5ff16e3eeb9a32c7dac0c43c3d9cf7cd
+Source Model Date : 1658103584 (2022/07/17)
+
+Ported Model Name : vortigaunt_slave_v1sc
+Ported Model Hash : 98166de19b2885074ebd460d0beaf36d
+Ported Model Date : 1752492497 (2025/07/14)

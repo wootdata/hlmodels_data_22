@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stalker_dutyexo
+Source Model Hash : c57b83c86e221fd95fec6fc6e68aec3e
+Source Model Date : 1271060828 (2010/04/12)
+
+Ported Model Name : stalker_dutyexo_v1sc
+Ported Model Hash : 41adeaf9abe0ad680c868c917a3ced11
+Ported Model Date : 1752492327 (2025/07/14)

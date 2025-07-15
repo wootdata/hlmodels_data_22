@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nightwolf_v2
+Source Model Hash : ba3f9829790f5242fa7762353b77c0a7
+Source Model Date : 1583388844 (2020/03/04)
+
+Ported Model Name : nightwolf_v2sc
+Ported Model Hash : b572703e8c494a58f5bbbe5371a453b0
+Ported Model Date : 1752492094 (2025/07/14)

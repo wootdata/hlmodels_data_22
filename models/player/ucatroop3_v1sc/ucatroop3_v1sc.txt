@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ucatroop3
+Source Model Hash : 68fc6cdd9263b1b3a1f7aaad1dc2de2f
+Source Model Date : 1535216563 (2018/08/25)
+
+Ported Model Name : ucatroop3_v1sc
+Ported Model Hash : 4c2f9112b5d4fb483125b74decb4b5a9
+Ported Model Date : 1752492471 (2025/07/14)

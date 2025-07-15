@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kurumi
+Source Model Hash : 3881951f101a30bedb165cf574f35ef2
+Source Model Date : 1583986550 (2020/03/11)
+
+Ported Model Name : kurumi_v1sc
+Ported Model Hash : 15fb8fc42ed772ed1f6ac2a51ab50fcb
+Ported Model Date : 1752491913 (2025/07/14)

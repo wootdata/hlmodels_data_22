@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wendy
+Source Model Hash : e82de8db41dedb503fad9bc70791a6c8
+Source Model Date : 1674769709 (2023/01/26)
+
+Ported Model Name : wendy_v1sc
+Ported Model Hash : e5ba843abd9ae8ed887f8a8fd2f2114b
+Ported Model Date : 1752492505 (2025/07/14)

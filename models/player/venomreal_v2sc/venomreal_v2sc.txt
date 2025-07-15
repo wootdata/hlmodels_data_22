@@ -1,0 +1,24 @@
+Install in: svencoop/models/player
+
+Adaptation By Me
+
+The model is not MINE!
+
+
+
+Credits: tusleader
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : venomreal_v2
+Source Model Hash : 48dfb63ae1557ecd4d2af451879fabb8
+Source Model Date : 1579695706 (2020/01/22)
+
+Ported Model Name : venomreal_v2sc
+Ported Model Hash : 5ae8a9bc40a5e981cf3ffb361104e4eb
+Ported Model Date : 1752492491 (2025/07/14)

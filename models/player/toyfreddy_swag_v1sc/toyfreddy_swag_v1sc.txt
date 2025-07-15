@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : toyfreddy_swag
+Source Model Hash : af55a40b7e20436d6bc0de66aaa747a1
+Source Model Date : 1444147981 (2015/10/06)
+
+Ported Model Name : toyfreddy_swag_v1sc
+Ported Model Hash : c6597f3224d42df2d69b89c601cd8382
+Ported Model Date : 1752492455 (2025/07/14)

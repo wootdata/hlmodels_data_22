@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nya_purple
+Source Model Hash : 9b54b1fd82a8ffd822bb54be30f7ef6c
+Source Model Date : 1457723442 (2016/03/11)
+
+Ported Model Name : nya_purple_v1sc
+Ported Model Hash : 2ba8b953d752cc7c04fb1478a33b6f4f
+Ported Model Date : 1752492110 (2025/07/14)

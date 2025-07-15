@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mlp_twilight_v2
+Source Model Hash : d306cd8913c0972af195bbdb2572d7d5
+Source Model Date : 1538526214 (2018/10/02)
+
+Ported Model Name : mlp_twilight_v2sc
+Ported Model Hash : c30a1bb05398c0adbdbd3fa7153173c8
+Ported Model Date : 1752492036 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : oldgordon_deaged
+Source Model Hash : be164cd0db1fcbe1c5642d6a0ffa23ea
+Source Model Date : 1648682020 (2022/03/30)
+
+Ported Model Name : oldgordon_deaged_v1sc
+Ported Model Hash : faba8975525b2b7fc5ff4b21f1c56048
+Ported Model Date : 1752492114 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tfc_engineer_hd_v2
+Source Model Hash : fd34d0d2a24659d52337ac17f4d601ec
+Source Model Date : 1302326159 (2011/04/08)
+
+Ported Model Name : tfc_engineer_hd_v2sc
+Ported Model Hash : 218c859e695f83cde27e71a169a86634
+Ported Model Date : 1752492407 (2025/07/14)

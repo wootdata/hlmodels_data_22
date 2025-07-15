@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bh_jed_v2
+Source Model Hash : e3fcbd9c43271cea37b2ac66c6a2923a
+Source Model Date : 1590625611 (2020/05/27)
+
+Ported Model Name : bh_jed_v2sc
+Ported Model Hash : 49a10250081be58847feb4aca1ae036d
+Ported Model Date : 1752491426 (2025/07/14)

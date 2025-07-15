@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mlp_drwhooves
+Source Model Hash : 902a8f34ad3feaf3a049e4d4123ac0d2
+Source Model Date : 1491625651 (2017/04/07)
+
+Ported Model Name : mlp_drwhooves_v1sc
+Ported Model Hash : ab3e9b7d81015abf92769754ecd9016e
+Ported Model Date : 1752492035 (2025/07/14)

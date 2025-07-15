@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : skrullhead
+Source Model Hash : 9b296660366f7a4fb1b56d77e4b8c3ff
+Source Model Date : 1445973826 (2015/10/27)
+
+Ported Model Name : skrullhead_v1sc
+Ported Model Hash : 918c74be9fb781041265cbdaf6a27c62
+Ported Model Date : 1752492280 (2025/07/14)

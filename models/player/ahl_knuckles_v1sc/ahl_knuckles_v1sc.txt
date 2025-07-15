@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ahl_knuckles
+Source Model Hash : 6dc55c322ab61ee530f3648af7901aac
+Source Model Date : 1700905429 (2023/11/25)
+
+Ported Model Name : ahl_knuckles_v1sc
+Ported Model Hash : f80657268de62e12e89ddcabe17d80e7
+Ported Model Date : 1752491342 (2025/07/14)

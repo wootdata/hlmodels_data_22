@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kz_elin_04_v5
+Source Model Hash : e837e49d84c405ee310e17ff97f49b6d
+Source Model Date : 1581885902 (2020/02/16)
+
+Ported Model Name : kz_elin_04_v5sc
+Ported Model Hash : daa61fbf2fd037546351b1948ff62da0
+Ported Model Date : 1752491918 (2025/07/14)

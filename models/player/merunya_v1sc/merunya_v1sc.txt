@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : merunya_v1
+Source Model Hash : 80590f3c514e6f31e312a5ac2d0ba87c
+Source Model Date : 1643702125 (2022/01/31)
+
+Ported Model Name : merunya_v1sc
+Ported Model Hash : 1a47b514d354739b176b707aba682f68
+Ported Model Date : 1752492004 (2025/07/14)

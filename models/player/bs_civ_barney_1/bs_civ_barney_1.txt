@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bs_unarmored_barney_1
+Source Model Hash : 4eb8da0aa1dd9d1568b1e5feeadbb7c5
+Source Model Date : 1579695368 (2020/01/22)
+
+Ported Model Name : bs_civ_barney_1
+Ported Model Hash : 36fd09a7c226156dd805f8b73c180348
+Ported Model Date : 1752491450 (2025/07/14)

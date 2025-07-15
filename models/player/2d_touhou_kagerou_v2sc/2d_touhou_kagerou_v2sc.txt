@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_touhou_kagerou_v2
+Source Model Hash : 2009e2243afd0ca8d350674d486c2305
+Source Model Date : 1553614428 (2019/03/26)
+
+Ported Model Name : 2d_touhou_kagerou_v2sc
+Ported Model Hash : d217eb54f3a477f871ecc9c9fd9c33a9
+Ported Model Date : 1752491319 (2025/07/14)

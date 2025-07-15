@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : qwtf_sniper_red
+Source Model Hash : 34d54061b363b57d68bada5132100040
+Source Model Date : 1637598624 (2021/11/22)
+
+Ported Model Name : qwtf_sniper_red_v1sc
+Ported Model Hash : 08a8027dda01255617110e9218c9e97d
+Ported Model Date : 1752492183 (2025/07/14)

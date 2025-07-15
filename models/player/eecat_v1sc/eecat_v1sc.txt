@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : eecat
+Source Model Hash : 50e78d2a0ccc6cc050c72c61f4ad5913
+Source Model Date : 1699644713 (2023/11/10)
+
+Ported Model Name : eecat_v1sc
+Ported Model Hash : 4673ccb57d6e39a1fc13900cc01e9abf
+Ported Model Date : 1752491628 (2025/07/14)

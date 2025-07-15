@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hl2combineopad
+Source Model Hash : 5d31914b720780cf195c0e993de40bb2
+Source Model Date : 1443394891 (2015/09/27)
+
+Ported Model Name : hl2combineopad_v1sc
+Ported Model Hash : 8d22d2f24d623c1ea368520c499e10ec
+Ported Model Date : 1752491801 (2025/07/14)

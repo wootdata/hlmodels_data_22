@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : edgar
+Source Model Hash : 3aa96d4b1a4db3fbae9349b2d5b1e3f6
+Source Model Date : 1264844199 (2010/01/30)
+
+Ported Model Name : edgar_v1sc
+Ported Model Hash : abab3785296e4cc8e5416ebb18bc5909
+Ported Model Date : 1752491628 (2025/07/14)

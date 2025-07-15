@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : t2
+Source Model Hash : 0364af9e865293c249af7585242d2153
+Source Model Date : 1478177422 (2016/11/03)
+
+Ported Model Name : t2_v1sc
+Ported Model Hash : effcddb40b7c50b1a2e3ebf5c04eecaa
+Ported Model Date : 1752492357 (2025/07/14)

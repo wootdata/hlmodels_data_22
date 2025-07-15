@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : p4_jack_frost
+Source Model Hash : 091c8cdaba9763b84c23c7ceb50acc3d
+Source Model Date : 1583668548 (2020/03/08)
+
+Ported Model Name : p4_jack_frost_v1sc
+Ported Model Hash : b0ffc5909fec1bf1bc7400e905a9edef
+Ported Model Date : 1752492140 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ladydeath19_v2
+Source Model Hash : 71412327b994881d9154af4d372f1447
+Source Model Date : 1583912088 (2020/03/11)
+
+Ported Model Name : ladydeath19_v2sc
+Ported Model Hash : 402a6b7f620370a1d2f1cba9da7a60c7
+Ported Model Date : 1752491937 (2025/07/14)

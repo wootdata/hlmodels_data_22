@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sarashi_red
+Source Model Hash : 1d83ffae3fe8d36ffbca5ceec4088981
+Source Model Date : 1327316609 (2012/01/23)
+
+Ported Model Name : sarashi_red_v1sc
+Ported Model Hash : 6177d6322dbee90c2fef44ca2cf6c925
+Ported Model Date : 1752492236 (2025/07/14)

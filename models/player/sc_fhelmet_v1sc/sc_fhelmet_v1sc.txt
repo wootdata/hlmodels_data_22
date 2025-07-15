@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sc_fhelmet
+Source Model Hash : 061bd68835a18c9fe9a007eaefc98295
+Source Model Date : 1519944897 (2018/03/01)
+
+Ported Model Name : sc_fhelmet_v1sc
+Ported Model Hash : a470f36d1cf0827a0d75b234927f7aed
+Ported Model Date : 1752492252 (2025/07/14)

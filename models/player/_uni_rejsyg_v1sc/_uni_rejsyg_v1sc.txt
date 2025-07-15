@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : _uni_rejsyg
+Source Model Hash : 9909a914aba89459570af4ca870b2285
+Source Model Date : 1543092006 (2018/11/24)
+
+Ported Model Name : _uni_rejsyg_v1sc
+Ported Model Hash : 4ddcea38a8294c811d62a734e5d82ed7
+Ported Model Date : 1752492543 (2025/07/14)

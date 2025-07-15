@@ -1,0 +1,37 @@
+GAIRU for Half-Life
+.------------------.
+
+
+Author: skrwX
+
+triangles: under 500
+
+features:
+	 -can change colors within the COSTUMIZE menu
+
+	 -has a chrome texture
+
+	 -it's made by myself
+
+Well, this is my first HL-model and I think it's not too bad so I thought:
+Let's post it to the people of COLDFUSION. It looks that ugly because
+it uses few triangles and it uses only a few of them because I have a
+slow computer and wanted to have a DM-model I could play with.
+
+
+end of readme.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gairu
+Source Model Hash : a5c16d6f93e3a214554dc96f8ac5f9f7
+Source Model Date : 1265119924 (2010/02/02)
+
+Ported Model Name : gairu_v1sc
+Ported Model Hash : 399591dc94ca34f58b85475d46b1a670
+Ported Model Date : 1752491669 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : aswat_ld
+Source Model Hash : b770d0bc00a5ad6f4d655959c737d8e1
+Source Model Date : 1603033348 (2020/10/18)
+
+Ported Model Name : aswat_ld_v1sc
+Ported Model Hash : fca2179f941b4fa45edb4dd51659d3e1
+Ported Model Date : 1752491385 (2025/07/14)

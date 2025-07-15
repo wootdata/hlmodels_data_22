@@ -1,0 +1,17 @@
+Credit:
+http://davidsaiyan.blogspot.jp/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : l_lawliet
+Source Model Hash : 37162a1e972b1b75102ac18ce7d1758a
+Source Model Date : 1447082048 (2015/11/09)
+
+Ported Model Name : l_lawliet_v1sc
+Ported Model Hash : d357133e5cedd9f3cb602b2b26936724
+Ported Model Date : 1752491976 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bawls
+Source Model Hash : 6dbd212bff5a71a37f2417981b34486c
+Source Model Date : 1456808804 (2016/02/29)
+
+Ported Model Name : bawls_v1sc
+Ported Model Hash : 903f686e25041de260f2405cc36ea125
+Ported Model Date : 1752491406 (2025/07/14)

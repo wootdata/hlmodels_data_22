@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : selene_nocape_v2
+Source Model Hash : 6a5f82ece4fe0a79af986159066eee56
+Source Model Date : 1269848241 (2010/03/29)
+
+Ported Model Name : selene_nocape_v2sc
+Ported Model Hash : 25babbadfc76e10e99874303a7cdb172
+Ported Model Date : 1752492258 (2025/07/14)

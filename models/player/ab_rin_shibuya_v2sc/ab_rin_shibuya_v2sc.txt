@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ab_rin_shibuya_v2
+Source Model Hash : 50d61749009ad1eb41c821f0d9cc0f15
+Source Model Date : 1582155259 (2020/02/19)
+
+Ported Model Name : ab_rin_shibuya_v2sc
+Ported Model Hash : 9b9d8c66a5c3200478565f9074ae1469
+Ported Model Date : 1752491329 (2025/07/14)

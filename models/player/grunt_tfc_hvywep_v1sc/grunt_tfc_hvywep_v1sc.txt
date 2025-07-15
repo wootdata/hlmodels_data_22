@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : grunt_tfc_hvyweapon
+Source Model Hash : 128d18d69e5c484b97cae8cc0a850fcc
+Source Model Date : 1540601358 (2018/10/26)
+
+Ported Model Name : grunt_tfc_hvywep_v1sc
+Ported Model Hash : 1fc02b025b30da83e3cf2fd25dffe36f
+Ported Model Date : 1752491743 (2025/07/14)

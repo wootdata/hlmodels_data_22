@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nakhtianubis
+Source Model Hash : f8489595ef3a9eb07f0f7409f1c8f93c
+Source Model Date : 1465827724 (2016/06/13)
+
+Ported Model Name : nakhtianubis_v1sc
+Ported Model Hash : 2357a04cf4d2d19c1d6a198e1eb0649b
+Ported Model Date : 1752492065 (2025/07/14)

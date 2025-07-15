@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lolsoraka
+Source Model Hash : d30042cdc094fa18e559342f6078777e
+Source Model Date : 1636442734 (2021/11/08)
+
+Ported Model Name : lolsoraka_v1sc
+Ported Model Hash : 2895fc76b8f8b8c70389285f473d986c
+Ported Model Date : 1752491959 (2025/07/14)

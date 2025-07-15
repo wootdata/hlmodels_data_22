@@ -1,0 +1,17 @@
+Hecho por FeDe7362
+Gracias por descargar :D
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : p-body
+Source Model Hash : 14bfabb634f72693472fe3b9b250bdaa
+Source Model Date : 1498819297 (2017/06/30)
+
+Ported Model Name : p-body_v1sc
+Ported Model Hash : f107feae1fd7f748fc703e502d4a3499
+Ported Model Date : 1752492139 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bluebikini3
+Source Model Hash : de5dd988f64320991bc007c8a00b47e0
+Source Model Date : 1237217208 (2009/03/16)
+
+Ported Model Name : bluebikini3_v1sc
+Ported Model Hash : a2511ade4c45819b9f8607711be3369f
+Ported Model Date : 1752491437 (2025/07/14)

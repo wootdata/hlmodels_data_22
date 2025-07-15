@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bigmoneyshaggs_v2
+Source Model Hash : 4064579c01e4139459382a46e435b60f
+Source Model Date : 1582888882 (2020/02/28)
+
+Ported Model Name : bigmoneyshaggs_v2sc
+Ported Model Hash : 3fbc19c51ba8b896e7aafe3f7695781f
+Ported Model Date : 1752491429 (2025/07/14)

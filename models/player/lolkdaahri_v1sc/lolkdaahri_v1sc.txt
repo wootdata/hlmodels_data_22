@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lolkdaahri
+Source Model Hash : 85a9b1884a6f4c74d29e5637051f7e21
+Source Model Date : 1623747580 (2021/06/15)
+
+Ported Model Name : lolkdaahri_v1sc
+Ported Model Hash : 6a2120703485b8ead521666289bd88f7
+Ported Model Date : 1752491958 (2025/07/14)

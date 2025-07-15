@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : terror_barney
+Source Model Hash : b21400220d1a6ac71361c9722c928fcf
+Source Model Date : 1267351413 (2010/02/28)
+
+Ported Model Name : terror_barney_v1sc
+Ported Model Hash : ee667582c9079698e19ef16fab3703d0
+Ported Model Date : 1752492402 (2025/07/14)

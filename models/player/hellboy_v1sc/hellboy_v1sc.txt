@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hellboy
+Source Model Hash : b38bf44dd6a3f2553cb5381e409606ee
+Source Model Date : 1375426632 (2013/08/01)
+
+Ported Model Name : hellboy_v1sc
+Ported Model Hash : 32676c43aec9a6958e41f1c356dba7bf
+Ported Model Date : 1752491781 (2025/07/14)

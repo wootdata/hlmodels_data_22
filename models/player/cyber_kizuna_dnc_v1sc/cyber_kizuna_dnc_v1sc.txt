@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cyber_kizuna_dance_v2
+Source Model Hash : e7efada190786755590a3c873c883aee
+Source Model Date : 1702240850 (2023/12/10)
+
+Ported Model Name : cyber_kizuna_dnc_v1sc
+Ported Model Hash : 77563d36b82c3dabe4b56edacc2fd9fb
+Ported Model Date : 1752491573 (2025/07/14)

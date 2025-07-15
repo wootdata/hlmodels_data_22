@@ -1,0 +1,24 @@
+Unmasked Barney - Half-Life Model
+---------------------------------
+Modeler: PeRcY
+Email: percy3000@gmx.net
+ICQ # 89565962
+
+This is the barney without his stuff like the vest or the helmet..
+
+(Fixed/Adapted for Sven Co-op 5.0 by VitorHunter)
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bs_civ_barney2_dcp2
+Source Model Hash : a5e24c71dae3d68ff13bd0b86fc36e77
+Source Model Date : 1611100526 (2021/01/19)
+
+Ported Model Name : civ_barney2_dcp2_v1sc
+Ported Model Hash : 6a132369f5577b6e96ee669756c5483c
+Ported Model Date : 1752491450 (2025/07/14)

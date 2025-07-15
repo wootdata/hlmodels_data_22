@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : takeda_shoko
+Source Model Hash : a15d92529e55b7d64463c8c0a37e6566
+Source Model Date : 1656398349 (2022/06/27)
+
+Ported Model Name : takeda_shoko_v1sc
+Ported Model Hash : 8d6755319d2a97bdd4bd66434aa0d2b3
+Ported Model Date : 1752492359 (2025/07/14)

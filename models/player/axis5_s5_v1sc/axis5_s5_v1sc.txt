@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : axis5_s5
+Source Model Hash : 2bb0bd472a771f8bc33ae2212609f08f
+Source Model Date : 1468612440 (2016/07/15)
+
+Ported Model Name : axis5_s5_v1sc
+Ported Model Hash : 22ba17fc912f1d46b8626d7d6d727819
+Ported Model Date : 1752491391 (2025/07/14)

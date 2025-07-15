@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fp_nox2018
+Source Model Hash : e518d500ce47e340970b9a88e52fb573
+Source Model Date : 1498410947 (2017/06/25)
+
+Ported Model Name : fp_nox2018_v1sc
+Ported Model Hash : 7d9f4e04192470ba2281afbdeedb7810
+Ported Model Date : 1752491659 (2025/07/14)

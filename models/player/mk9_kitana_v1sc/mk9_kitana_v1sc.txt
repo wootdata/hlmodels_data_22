@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mk9_kitana
+Source Model Hash : dd885dbd943016e261afb394c3633ed8
+Source Model Date : 1455332092 (2016/02/12)
+
+Ported Model Name : mk9_kitana_v1sc
+Ported Model Hash : 978e99d62fe6608030cdd2800dea7c74
+Ported Model Date : 1752492032 (2025/07/14)

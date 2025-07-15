@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : eggc
+Source Model Hash : 476f17ef0e4b147e6a58ba4ecb654347
+Source Model Date : 1654720190 (2022/06/08)
+
+Ported Model Name : eggc_v1sc
+Ported Model Hash : 5744fc99c78a9e0bd27d684670a11584
+Ported Model Date : 1752491629 (2025/07/14)

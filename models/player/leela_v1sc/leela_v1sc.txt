@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : leela
+Source Model Hash : f8ac9ee2d65f4fd343fb6e5fa9e20421
+Source Model Date : 1465827724 (2016/06/13)
+
+Ported Model Name : leela_v1sc
+Ported Model Hash : 3f7bcfe629e75402e52e316519e3e520
+Ported Model Date : 1752491945 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_yoda2
+Source Model Hash : 139ff77feb6adbeb53f39bb0808d7bea
+Source Model Date : 1553886954 (2019/03/29)
+
+Ported Model Name : 2d_yoda2_v1sc
+Ported Model Hash : 2ea670387cec05e33b61da1851b8dcfb
+Ported Model Date : 1752491321 (2025/07/14)

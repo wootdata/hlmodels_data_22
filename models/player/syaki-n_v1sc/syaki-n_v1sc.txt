@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : syaki-n
+Source Model Hash : d22c7fa0d683a68a068338f69ae2b1fd
+Source Model Date : 1270043651 (2010/03/31)
+
+Ported Model Name : syaki-n_v1sc
+Ported Model Hash : c1f5178a49ad6e6da607c8daef319410
+Ported Model Date : 1752492355 (2025/07/14)

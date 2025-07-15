@@ -1,0 +1,17 @@
+RNG_Raven2 by RNG
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rng_raven2
+Source Model Hash : 9f6b52865cbe90baad7f82258749b8e1
+Source Model Date : 1497364821 (2017/06/13)
+
+Ported Model Name : rng_raven2_v1sc
+Ported Model Hash : 927981f4907f51383c449bece78e2dd9
+Ported Model Date : 1752492218 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : forsyth
+Source Model Hash : 26e6317966e199d0a4792c7896ca9fad
+Source Model Date : 1664141833 (2022/09/25)
+
+Ported Model Name : forsyth_v1sc
+Ported Model Hash : b548ba7dc1ab7449e09501da51ed7e65
+Ported Model Date : 1752491655 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mhpigssy
+Source Model Hash : b0c7c7d22a722c572b43bfc0a5a3ef0d
+Source Model Date : 1629412304 (2021/08/19)
+
+Ported Model Name : mhpigssy_v1sc
+Ported Model Hash : a49fe198713874d882791b3bc0921a74
+Ported Model Date : 1752492013 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : vtuber_kizuna
+Source Model Hash : 1533d32f9eeec263daf7e59abd272054
+Source Model Date : 1587934079 (2020/04/26)
+
+Ported Model Name : vtuber_kizuna_v1sc
+Ported Model Hash : 4bbbd74b56c450884b651533848a51ee
+Ported Model Date : 1752492498 (2025/07/14)

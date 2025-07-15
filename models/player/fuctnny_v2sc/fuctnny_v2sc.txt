@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fuctnny_v2
+Source Model Hash : 546fb3a346b9148bafbefef2e8197038
+Source Model Date : 1583045360 (2020/02/29)
+
+Ported Model Name : fuctnny_v2sc
+Ported Model Hash : c830786256d3d601430a1fcdfe60ae8c
+Ported Model Date : 1752491663 (2025/07/14)

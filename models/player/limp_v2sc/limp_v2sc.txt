@@ -1,0 +1,49 @@
+7-25-99
+
+----------------------------------------------------------------------
+
+Model Name              : Limp
+
+Model Author            : Rikki "Phukyumoto(CW)" Knight
+
+Email                   : phuky@swbell.net
+
+Website                 : http://www.planetquake.com/q2pmp/hostings/phunkyumoto
+
+Model description       : Based loosely upon and inspired by Fred Durst, the frontman from
+			  the band Limp Bizkit. This model was created for the Action 			  Half-Life modeling contest. Visit the Action Quake 2/Half-Life 			  page at http://action.telefragged.com
+
+
+----------------------------------------------------------------------
+
+
+* Construction *
+
+Poly Count              : 777 faces, body & hands 
+
+Skin Count              : 1
+
+Editor used             : 
+		Modeling - 3d Studio Max 2.5/Q2 modeller	
+		Mapping  - NST/Q2 modeller
+		Skinning - Photoshop/NST
+
+Known Bugs              : The biped didn't take too well to the crotch area, so there a bit 			  of wierdness there when crouching.
+
+
+Thanks			: Mad props to Scarecrow for the awesome color change skin tutorial. 
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : limp_v2
+Source Model Hash : ecc1079882238818dd81e5fa875ac774
+Source Model Date : 1590881234 (2020/05/30)
+
+Ported Model Name : limp_v2sc
+Ported Model Hash : 45b966f7086702169e39c0672df1181e
+Ported Model Date : 1752491953 (2025/07/14)

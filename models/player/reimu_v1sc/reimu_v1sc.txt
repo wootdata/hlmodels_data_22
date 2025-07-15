@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : reimu
+Source Model Hash : 0b8aa85faa30d86788ce2ccba46042a9
+Source Model Date : 1464874005 (2016/06/02)
+
+Ported Model Name : reimu_v1sc
+Ported Model Hash : e6f9f58305ad26e44bede8487e79399c
+Ported Model Date : 1752492197 (2025/07/14)

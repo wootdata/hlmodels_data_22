@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : grigori
+Source Model Hash : b43aa123d7200881bc89c6fc4c96fc95
+Source Model Date : 1366321529 (2013/04/18)
+
+Ported Model Name : grigori_v1sc
+Ported Model Hash : ac76f6c1c80a5ffc9e1e08c7a0f18d3e
+Ported Model Date : 1752491741 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : halo_masterchief
+Source Model Hash : 0384f59bbd722f8aad6f2bdcfeb72793
+Source Model Date : 1268748356 (2010/03/16)
+
+Ported Model Name : halo_masterchief_v1sc
+Ported Model Hash : 908e3e81d0b26523f84b6ada11ce7285
+Ported Model Date : 1752491766 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fzt
+Source Model Hash : cd70afc0aadfcc591e90ebef76cc4059
+Source Model Date : 1628391250 (2021/08/07)
+
+Ported Model Name : fzt_v1sc
+Ported Model Hash : d35dd956a29b8422751a3b68b5b52e57
+Ported Model Date : 1752491665 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mhskinzb
+Source Model Hash : 3eedb7b589604228985b7de561952bc3
+Source Model Date : 1629417726 (2021/08/19)
+
+Ported Model Name : mhskinzb_v1sc
+Ported Model Hash : d25e3e53ef4a2553b8d4b192032ec6cf
+Ported Model Date : 1752492013 (2025/07/14)

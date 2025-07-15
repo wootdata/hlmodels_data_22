@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dark_wesker
+Source Model Hash : b7b023b27221d05b8183056aba3da950
+Source Model Date : 1430589147 (2015/05/02)
+
+Ported Model Name : dark_wesker_v1sc
+Ported Model Hash : dc9d31f489bc0c1438d0eb873edc31a1
+Ported Model Date : 1752491581 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : vengeful_spirit
+Source Model Hash : f6a6a989435f49904c8b9fc7ce464d28
+Source Model Date : 1462801282 (2016/05/09)
+
+Ported Model Name : vengeful_spirit_v1sc
+Ported Model Hash : 2338138d09d9340531d8ff80ab9550b4
+Ported Model Date : 1752492491 (2025/07/14)

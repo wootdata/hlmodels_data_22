@@ -1,0 +1,51 @@
+2-24-00
+
+----------------------------------------------------------------------
+
+Model Name              : Boogle
+
+Model Author            : BoB
+
+Email                   : clownluv@mindspring.com
+
+Website                 : http://bobs-shak.8m.com
+
+Model description       : Boogle, Torin's pet from the Sierra adventure
+			  game, Torin's Passage
+
+----------------------------------------------------------------------
+
+
+* Construction *
+
+Poly Count              : 797 faces
+
+Skin Count              : 1
+
+Editor used             : 
+		Modeling - Milkshape 1.1	
+		Skin - Photoshop
+
+Known Bugs              : ankle area gets deformed when crawling
+
+
+Thanks			: Sierra, Valve, Mete with Milkshape, 			  	  			  	  Scarecrow for the tuts, my bro for his 			  			  	  support, and everyone else
+
+	*Boogle is the creation of Sierra and Al Lowe.*
+	This is my second ppm for anything.
+	Feedback would be greatly appreciated.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : boogle
+Source Model Hash : 7b8af7ff82da15174c9d17d4f459c3d6
+Source Model Date : 1268063204 (2010/03/08)
+
+Ported Model Name : boogle_v1sc
+Ported Model Hash : 585272fe459f6d573e2e9b1248feca60
+Ported Model Date : 1752491444 (2025/07/14)

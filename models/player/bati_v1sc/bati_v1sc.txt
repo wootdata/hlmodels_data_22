@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bati
+Source Model Hash : e2c5ed75d65debdeb48f09b8eb70724a
+Source Model Date : 1580013786 (2020/01/25)
+
+Ported Model Name : bati_v1sc
+Ported Model Hash : ffa8af41ac03c1c5c842d28429081f22
+Ported Model Date : 1752491404 (2025/07/14)

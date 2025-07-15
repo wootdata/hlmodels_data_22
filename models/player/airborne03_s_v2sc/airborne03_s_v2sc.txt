@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : airborne03_s_v2
+Source Model Hash : ca71999ea5e06f1a6b279b249c7347c8
+Source Model Date : 1466270236 (2016/06/18)
+
+Ported Model Name : airborne03_s_v2sc
+Ported Model Hash : ea4371d16d5a1b765d1a7808284f1a1a
+Ported Model Date : 1752491348 (2025/07/14)

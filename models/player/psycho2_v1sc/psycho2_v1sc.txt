@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : psycho2
+Source Model Hash : b300a971aef3d167ac3d251bb2361d65
+Source Model Date : 1591042372 (2020/06/01)
+
+Ported Model Name : psycho2_v1sc
+Ported Model Hash : 0dc5947583d06e6c5834bf4fcd18b26c
+Ported Model Date : 1752492171 (2025/07/14)

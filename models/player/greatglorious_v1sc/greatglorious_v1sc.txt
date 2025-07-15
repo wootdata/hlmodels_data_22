@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : greatglorious
+Source Model Hash : 597c2f14aef7e1f340dba8f4c28af472
+Source Model Date : 1717229113 (2024/06/01)
+
+Ported Model Name : greatglorious_v1sc
+Ported Model Hash : c207a40265f4ef8b63c8a2f9fc5557a6
+Ported Model Date : 1752491737 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : biker_crash_v2
+Source Model Hash : d807337f4f203aed21b56e5a5c2ef394
+Source Model Date : 1695753859 (2023/09/26)
+
+Ported Model Name : biker_crash_v2sc
+Ported Model Hash : a345b88ec4838db9d5eb7b1f457f9f6a
+Ported Model Date : 1752491430 (2025/07/14)

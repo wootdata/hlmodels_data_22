@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mrdumbsbrother_v2
+Source Model Hash : 95624d52ad00e3aa3cb9b7aaa79513d5
+Source Model Date : 1540689056 (2018/10/27)
+
+Ported Model Name : mrdumbsbrother_v2sc
+Ported Model Hash : 8d90b91c737580f38bea1c54314434fa
+Ported Model Date : 1752492045 (2025/07/14)

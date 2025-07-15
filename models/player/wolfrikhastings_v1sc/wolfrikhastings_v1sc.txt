@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wolfrikhastings
+Source Model Hash : 08543fc3c99327a3c3640dcea33f5270
+Source Model Date : 1375390512 (2013/08/01)
+
+Ported Model Name : wolfrikhastings_v1sc
+Ported Model Hash : f40624b35ca2269766f568adfd83a461
+Ported Model Date : 1752492510 (2025/07/14)

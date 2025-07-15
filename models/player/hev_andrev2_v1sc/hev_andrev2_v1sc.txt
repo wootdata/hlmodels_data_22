@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hev_andrev2
+Source Model Hash : 6d80ff23fb73b398e3434a8d2f75091e
+Source Model Date : 1565533101 (2019/08/11)
+
+Ported Model Name : hev_andrev2_v1sc
+Ported Model Hash : aab9eb43763694ca9e9cf13b0309a08e
+Ported Model Date : 1752491790 (2025/07/14)

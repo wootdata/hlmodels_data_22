@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : blackmesaarctic_v2
+Source Model Hash : 220a6afdbc633c7f1d0229f67df12465
+Source Model Date : 1590561838 (2020/05/26)
+
+Ported Model Name : blackmesaarctic_v2sc
+Ported Model Hash : f7548550cc066b6e07e30b384a977c71
+Ported Model Date : 1752491433 (2025/07/14)

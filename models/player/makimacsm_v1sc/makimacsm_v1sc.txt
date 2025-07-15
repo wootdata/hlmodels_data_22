@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : makimacsm
+Source Model Hash : 6eb27c1cd9b82340a8d7f14d69ee73ad
+Source Model Date : 1654721336 (2022/06/08)
+
+Ported Model Name : makimacsm_v1sc
+Ported Model Hash : 43f29822816ed47fe8bdd40e9fd10211
+Ported Model Date : 1752491983 (2025/07/14)

@@ -1,0 +1,25 @@
+                         Dark_SPy
+
+A Spy(TFC) colour change, Dark_Spy
+Hope you like it! 
+   
+
+INSTALLATION:  UNZIP INTO  halflife\valve\models\player\Dark_Spy  folder
+
+
+         FYA    MARQUIS   for skins (m.haly@cwcom.net) 17/7/99
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dark_spy_v2
+Source Model Hash : bfe84f47cbc60a318b5dec2154110ac8
+Source Model Date : 1583566074 (2020/03/06)
+
+Ported Model Name : dark_spy_v2sc
+Ported Model Hash : fb3db75b3fd53b3fd1abed76834af238
+Ported Model Date : 1752491581 (2025/07/14)

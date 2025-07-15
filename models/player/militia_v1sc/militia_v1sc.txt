@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : militia
+Source Model Hash : 771f779af89aaa9e7e98b125a2c8cfd8
+Source Model Date : 1266334968 (2010/02/16)
+
+Ported Model Name : militia_v1sc
+Ported Model Hash : be7d9d46a5840f0fac2723e223b8f757
+Ported Model Date : 1752492025 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : greenearth
+Source Model Hash : 5a082b0a46a287f2bd072eec37d5f905
+Source Model Date : 1265767924 (2010/02/09)
+
+Ported Model Name : greenearth_v1sc
+Ported Model Hash : 5e44c56898dbc1f371b56984899ac424
+Ported Model Date : 1752491737 (2025/07/14)
