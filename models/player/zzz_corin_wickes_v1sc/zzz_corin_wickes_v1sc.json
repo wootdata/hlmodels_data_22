@@ -372,7 +372,7 @@
 			"type": 32
 		}
 	],
-	"date": 1758223632,
+	"date": 1758225773,
 	"events": [
 		{
 			"event": 5005,
@@ -633,8 +633,8 @@
 	"metahook_ragdoll": false,
 	"modid": 14,
 	"name": "ZZZ_Corin_Wickes_wep.mdl",
-	"preview": false,
-	"readme": false,
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

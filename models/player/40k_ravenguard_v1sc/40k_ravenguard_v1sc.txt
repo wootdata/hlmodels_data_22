@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 40k_ravenguard
+Source Model Hash : decc6e89b12391f761fa27fa3878319b
+Source Model Date : 1740306423 (2025/02/23)
+
+Ported Model Name : 40k_ravenguard_v1sc
+Ported Model Hash : f58b850a57b2a34d003df94e7b43c122
+Ported Model Date : 1758225721 (2025/09/18)
