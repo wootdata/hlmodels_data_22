@@ -1,0 +1,32 @@
+
+==================================================================
+Title                   : Onna 2
+
+Author                  : M. Kalirai
+
+Description             : Model for Half-Life
+
+Additional Credits to   : White Dragon for the first Onna model
+
+Tools used              : MilkShape 3D 1.1.2, Paint and Adobe 
+                          Photoshop 5.
+==================================================================
+
+
+DESCRIPTION
+
+Onna version 2. I cropped the bra up just above the stomach :) and tweaked the model 
+slightly so that the skin is not so badly placed, and the breasts and bottom are
+slightly larger. I couldn't fix the problem with the bra strap on the the shoulder,
+I'll do that in my next model. Sorry if I have 'stolen' White Dragon's Idea. 
+
+If you don't have the previous Onna model, you should have this one. Enjoy! 
+
+
+INSTALLATION
+
+Make a folder called 'Onna2' in your Half Life\Valve\Models\Player directory.
+
+Unzip the this readme, the .bmp file and the .mdl file here.
+   
+Note: I have NOT enabled team colours. They don't work very well on this skin.
