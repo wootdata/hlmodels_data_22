@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hgrunt_torch
+Source Model Hash : 270d0e2c78fb69cfb7819e2681c7c551
+Source Model Date : 1762500133 (2025/11/06)
+
+Ported Model Name : hgrunt_torch_v1sc
+Ported Model Hash : 921d931633125184962cb9b917c907c1
+Ported Model Date : 1762777779 (2025/11/10)
