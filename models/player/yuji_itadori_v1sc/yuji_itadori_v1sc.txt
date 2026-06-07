@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : yuji_itadori
+Source Model Hash : cc4c8bd003ded3fdf21f1c3e5206e3a1
+Source Model Date : 1774401739 (2026/03/24)
+
+Ported Model Name : yuji_itadori_v1sc
+Ported Model Hash : e1a0bc5d7ad6c6b744423328aa9d398a
+Ported Model Date : 1780823054 (2026/06/07)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : smoyoshi
+Source Model Hash : 7a3d37480fc512ffdf6b488d24b2aca2
+Source Model Date : 1769817425 (2026/01/30)
+
+Ported Model Name : smoyoshi_v1sc
+Ported Model Hash : 1830f1c55c95b0247084349dc4b2d16f
+Ported Model Date : 1780823048 (2026/06/07)
